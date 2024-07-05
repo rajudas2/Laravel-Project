@@ -1,0 +1,24 @@
+{
+    "name": "tchdev/monetbil",
+    "description": "This will display the payment interface of monetbil (MTN/ORANGE/EU MONEY)",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ramostchambia",
+            "email": "ramostchambia@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Tchdev\\Monetbil\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tchdev\\Monetbil\\": "src/"
+        }
+    }
+}
